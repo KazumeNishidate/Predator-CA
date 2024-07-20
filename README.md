@@ -18,6 +18,7 @@ complex system based on the RWCA model [1,2,3].
   meets another prey in neighboring sites.
 
 ![](images/fig1.jpg)
+
 Snapshot of the predator (red) and prey (green) ecosystem.
 
 [1] [Cellular automaton model for random walkers](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.1675)
