@@ -1,6 +1,7 @@
 
 This code simulates predator-prey ecosystem Cellular Automaton, a
-complex system based on the RWCA model [1,2,3].
+complex system based on the RWCA model [1,2,3].  It uses [GSL](https://www.gnu.org/software/gsl/) for the random number generator and [EGGX](https://www.ir.isas.jaxa.jp/~cyamauch/eggx_procall/index.html) for graphics.
+
 
 - Predators and prey walk around the 2D lattice following the RWCA
   rules.  As they move, predators and prey undergo a realistic,
