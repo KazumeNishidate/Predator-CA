@@ -1,6 +1,6 @@
 # Predator Cellular Automaton
 
-This code simulates predator-prey ecosystem Cellular Automaton, a
+This code simulates a redator-prey ecosystem Cellular Automaton, a
 complex system based on the RWCA model [1,2,3].  It uses [GSL](https://www.gnu.org/software/gsl/) for the random number generator and [EGGX](https://www.ir.isas.jaxa.jp/~cyamauch/eggx_procall/index.html) for graphics.
 
 
@@ -14,7 +14,7 @@ complex system based on the RWCA model [1,2,3].  It uses [GSL](https://www.gnu.o
   and W sites—and eliminate the prey.
 
 - A predator will probably have a baby predator when it meets another
-  predator in the nearest neighboring sites.
+  predator in neighboring sites.
 
 - A prey will also have a baby prey with some probability when it
   meets another prey in neighboring sites.
